@@ -10,5 +10,5 @@ body{
     margin: 5vh;
 }
 canvas{
-    background-image: url("/assets/img/bg.svg");
+    background-image: url("./assets/img/bg.svg");
 }
